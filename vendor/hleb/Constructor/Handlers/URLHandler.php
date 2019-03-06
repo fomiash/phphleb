@@ -63,7 +63,7 @@ class URLHandler
     private function match_search_type($blocks)
     {
 
-        $real_type = strtolower($_SERVER['REQUEST_METHOD'] ?? 'GET');
+        $real_type = strtolower($_SERVER['REQUEST_METHOD']);
 
         $result_blocks = [];
 
