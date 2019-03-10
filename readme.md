@@ -1,8 +1,4 @@
-HLEB
-=====================
-### ![HLEB LOGO](https://phphleb.ru/logo.gif)
-### PHP Micro-Framework
+### PHP Micro-Framework HLEB
 
-Framework for hobbies and non-commercial projects. Requires PHP version 7.0 or higher.
+### !Development moved to repository [github.com/phphleb/hleb](https://github.com/phphleb/hleb)
 
-[Link to instructions](https://phphleb.ru/ru/v1/)
